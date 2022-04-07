@@ -1,0 +1,15 @@
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\bin\Debug\net6.0\OverloadingMethod.exe
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\bin\Debug\net6.0\OverloadingMethod.deps.json
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\bin\Debug\net6.0\OverloadingMethod.runtimeconfig.json
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\bin\Debug\net6.0\OverloadingMethod.dll
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\bin\Debug\net6.0\OverloadingMethod.pdb
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.csproj.AssemblyReference.cache
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.AssemblyInfoInputs.cache
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.AssemblyInfo.cs
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.csproj.CoreCompileInputs.cache
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.dll
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\refint\OverloadingMethod.dll
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.pdb
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\OverloadingMethod.genruntimeconfig.cache
+C:\Users\STUDIO\source\repos\OverloadingMethod\OverloadingMethod\obj\Debug\net6.0\ref\OverloadingMethod.dll

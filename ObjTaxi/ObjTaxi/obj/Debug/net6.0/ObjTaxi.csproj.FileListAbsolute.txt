@@ -1,0 +1,15 @@
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\bin\Debug\net6.0\ObjTaxi.exe
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\bin\Debug\net6.0\ObjTaxi.deps.json
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\bin\Debug\net6.0\ObjTaxi.runtimeconfig.json
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\bin\Debug\net6.0\ObjTaxi.dll
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\bin\Debug\net6.0\ObjTaxi.pdb
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.csproj.AssemblyReference.cache
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.AssemblyInfoInputs.cache
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.AssemblyInfo.cs
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.csproj.CoreCompileInputs.cache
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.dll
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\refint\ObjTaxi.dll
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.pdb
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ObjTaxi.genruntimeconfig.cache
+C:\Users\STUDIO\source\repos\ObjTaxi\ObjTaxi\obj\Debug\net6.0\ref\ObjTaxi.dll
