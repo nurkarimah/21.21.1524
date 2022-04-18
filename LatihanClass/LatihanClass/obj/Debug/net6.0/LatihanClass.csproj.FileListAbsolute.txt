@@ -1,0 +1,15 @@
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.csproj.AssemblyReference.cache
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.AssemblyInfoInputs.cache
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.AssemblyInfo.cs
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.csproj.CoreCompileInputs.cache
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.exe
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.deps.json
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.runtimeconfig.json
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.dll
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.pdb
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.dll
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\refint\LatihanClass.dll
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.pdb
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.genruntimeconfig.cache
+C:\Users\reza\source\repos\LatihanClass\LatihanClass\obj\Debug\net6.0\ref\LatihanClass.dll
